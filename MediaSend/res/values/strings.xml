@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">酷蓝媒体共享软件</string>
+    <string name="txt_info">酷蓝科技媒体共享应用\n\n扫描连接多点触控平台二维码\n\n将媒体资源传到平台操作共享</string>
+    <string name="str_username">您的昵称</string>
+    <string name="str_scan">扫描二维码连接服务器</string>
+    <string name="str_name_hit">请输入您的昵称</string>
+    <string name="title_activity_capture">请扫描展示平台上的二维码</string>
+    <string name="str_corpname">杭州酷蓝科技有限公司</string>
+    <string name="str_corpwww">www.krakentouch.com</string>
+	<string name="str_send">向上滑动发送到展示平台</string>
+</resources>
